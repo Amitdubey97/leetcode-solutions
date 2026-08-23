@@ -17,6 +17,6 @@ public:
         if((ql +qr)&1) // agar '?' ka count odd to alice hamesha jeetega
         return true;
 
-        return diff != (9*(qr-ql)) >>1; 
+        return diff != (9*(qr-ql))/2; 
     }
 };
