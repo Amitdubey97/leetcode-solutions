@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
