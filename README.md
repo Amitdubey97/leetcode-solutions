@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0561-array-partition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
