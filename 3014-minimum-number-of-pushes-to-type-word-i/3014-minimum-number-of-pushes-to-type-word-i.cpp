@@ -28,3 +28,16 @@ public:
        return ans;
     }
 };
+/* optimal O(1)
+
+       int n = word.size();
+
+       int q = n/8;
+       int r = n%8;
+
+       int ans = 8*q*(q+1)/2;
+       ans+= r*(q+1);
+
+       return ans;
+    }
+};*/
