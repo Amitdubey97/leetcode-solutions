@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0657-robot-return-to-origin](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1927-sum-game) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
