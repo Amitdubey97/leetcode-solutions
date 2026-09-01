@@ -7,7 +7,7 @@ public:
             int j = 0; // j only counts characters
              while(j < prefix.size()&&   //char count prefix ki count se zyada na ho
                    j < strs[i].size()&&  // char count bs string ki lenght tk ho
-                   prefix[j] == strs[i][j]){  
+                   prefix[j] == strs[i][j]){  // string ke dono same position wale character barabar hai
                     j++;
                    }
                    prefix = prefix.substr(0,j); // ye btaega ki starting se kitne character print karne gai prefix me se
