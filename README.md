@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2784-check-if-array-is-good](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
