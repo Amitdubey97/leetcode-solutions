@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
