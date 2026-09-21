@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Linked List
 |  |
 | ------- |
