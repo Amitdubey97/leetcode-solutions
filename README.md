@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -254,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
