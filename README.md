@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
