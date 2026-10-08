@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0342-power-of-four](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1927-sum-game) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
