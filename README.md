@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
