@@ -1,12 +1,34 @@
 class Solution {
 public:
     int minimumRecolors(string blocks, int k) {
-    int count = 0, ans = k;
-    for(int i = 0; i < blocks.size(); ++i){
-        if(blocks[i] == 'W') count++;
-        if(i >= k && blocks[i - k] == 'W') count--; // if we have seen more than k items then remove the items that leave the window i.e i-k th item
-        if(i+1 >= k) ans = min(ans, count);         //if we have seen at least k item then check for min count as answer
+        int st = 0;
+        int end = k;
+        int n = blocks.size();
+        int count = 0;
+        
+
+        for(int i = 0; i<k; i++){
+            if(blocks[i] == 'W'){
+                count ++;
+            }
+        }
+        
+        int ans = count;
+
+        while(end<n){
+            if(blocks[end] == 'W'){
+                count ++;
+            }
+            
+            if(blocks[st] == 'W'){
+                count--;
+                
+            }
+            st++;
+            end++;
+            ans = min(ans, count);
+            
+        }
+        return ans;
     }
-    return min(ans, count);
-}
 };
