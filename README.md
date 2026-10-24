@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
