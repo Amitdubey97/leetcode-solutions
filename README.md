@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Amitdubey97/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1927-sum-game) |
