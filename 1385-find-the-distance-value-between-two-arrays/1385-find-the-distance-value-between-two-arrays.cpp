@@ -1,11 +1,19 @@
 class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        ranges::sort(arr2);
-        arr2.push_back(INT_MAX);  // sentinel: some b is always >= a - d
-        auto far = [&](int a) {  // the first b >= a - d is already past a + d
-            return *ranges::lower_bound(arr2, a - d) > a + d;
-        };
-        return ranges::count_if(arr1, far);
+        sort(arr1.begin(), arr1.end());
+        sort(arr2.begin(), arr2.end());
+
+        int ans = 0, j = 0;
+
+        for (int x : arr1) {
+            while (j < arr2.size() && arr2[j] < x - d)
+                j++;
+
+            if (j == arr2.size() || arr2[j] > x + d)
+                ans++;
+        }
+
+        return ans;
     }
 };
