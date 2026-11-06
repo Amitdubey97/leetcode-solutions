@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2747-count-zero-request-servers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Amitdubey97/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2747-count-zero-request-servers](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amitdubey97/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amitdubey97/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
